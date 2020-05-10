@@ -5,4 +5,6 @@
 2. Open the [Cough_detection_final2(execution).ipynb](https://github.com/CherryXChen/CSCE636-Project-Coughing-Detection/blob/master/Project_8/Cough_detection_final2(execution).ipynb) in Jupyter.  
 3. Replace path to the folder you want to test.  
 i.e. ![image](https://github.com/CherryXChen/CSCE636-Project-Coughing-Detection/blob/master/Pictures/path_replace.png)  
+(Since the data I used is special, you need to use openpose to generate the skeleton figures with black background. I have generated them for each video and saved in corresponding folder.)
+i.e. ![image](https://github.com/CherryXChen/CSCE636-Project-Coughing-Detection/blob/master/Pictures/figure_folder.jpg)
 4. Run the code.  
